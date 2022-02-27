@@ -1,7 +1,7 @@
-👋 Hi, I’m David Zientara (@dzrhythm). I'm currently employed as a Cloud Solution Architect
-at [Applied Information Sciences](https://www.ais.com/).
+Hi, I’m David Zientara (@dzrhythm). I'm currently employed as a Cloud Solution Architect
+at [Applied Information Sciences (AIS)](https://www.ais.com/).
 
-👀 I’m interested in cloud-native application architecture and development, domain-driven design,
+I’m interested in cloud-native application architecture and development, domain-driven design,
 containers and [Kubernetes](https://kubernetes.io/), DevOps, AI/ML, and Cloud technologies.
 
 <!---
